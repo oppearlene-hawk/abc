@@ -1,0 +1,34 @@
+#container{
+    display:flex;
+    flex-direction:column;
+    flex-wrap:wrap;
+    
+}
+
+#V{
+    background-color: violet;
+}
+#I{
+    background-color:  Indigo;
+}
+#B{
+    background-color: blue;
+}
+#G{
+    background-color:   green;
+}
+#Y{
+    background-color: yellow;
+}
+#O{
+    background-color: orange;
+}
+#R{
+    background-color: red;
+}
+
+.box{
+    height: 70px;
+    width: 50px;
+
+}
